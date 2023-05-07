@@ -1,0 +1,16 @@
+2023-02-07T09:50:59,012345,GET /rate/abcd+bouki+1973=4
+2023-02-07T10:00:05,012346,GET /rate/abcd+bye+love+1995=4
+2023-02-07T09:59:58,012347,GET /rate/abcd+2013=3
+2023-02-07T10:00:31,012348,GET /rate/abcd+kingdom+2012=4
+2023-02-07T10:00:01,012349,GET /rate/abcd+point+2008=3
+2023-02-07T09:51:16,012350,GET /rate/abcd+good_+the+bad+and+the+ugly+1966=5
+2023-02-07T10:00:06,012351,GET /rate/abcd+and+the+chocolate+factory+2005=3
+2023-02-07T09:51:10,012352,GET /rate/abcd+comfort+of+strangers+1990=4
+2023-02-07T09:50:44,012353,GET /rate/abcd+thieves+2012=3
+2023-02-07T09:50:25,012354,GET /rate/abcd+love+2007=3
+2023-02-07T09:51:07,012355,GET /rate/abcd+day+of+the+triffids+1962=3
+2023-02-07T09:59:37,012356,GET /rate/abcd+me+and+my+gal+1942=3
+2023-02-07T09:51:16,012357,GET /rate/abcd+before+chanel+2009=4
+2023-02-07T09:59:25,012358,GET /rate/abcd+action+1991=3
+2023-02-07T09:59:23,012359,GET /rate/abcd+1996=4
+2023-02-07T09:59:16,012360,GET /rate/abcd+potter+and+the+chamber+of+secrets+2002=4

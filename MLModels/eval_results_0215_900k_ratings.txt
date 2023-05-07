@@ -1,0 +1,18 @@
+Evaluating model: SVD ... 
+INFO     [preprocess.py:88] got 442639 users, 26680 items, 690089 ratings, sparsity = 99.99 %
+(Measure #1a) 5-fold valid RMSE                       : 0.6838
+(Measure #1b) Pearson-R w/ test data ratings          : 0.4347 (# hits = 123730 out of 200000)
+(Measure #2a) cross valid + training time             : 28.68 sec
+(Measure #2b) training time                           : 10.30 sec
+(Measure #3 ) inference time (per 100 requests)       : 13.74 sec
+(Measure #4 ) model size                              : 47.32 MB
+
+
+Evaluating model: baseline ... 
+INFO     [preprocess.py:88] got 442639 users, 26680 items, 690089 ratings, sparsity = 99.99 %
+(Measure #1a) 5-fold valid RMSE                       : 0.6911
+(Measure #1b) Pearson-R w/ test data ratings          : 0.4050 (# hits = 123730 out of 200000)
+(Measure #2a) cross valid + training time             : 19.15 sec
+(Measure #2b) training time                           : 3.89 sec
+(Measure #3 ) inference time (per 100 requests)       : 9.55 sec
+(Measure #4 ) model size                              : 33.00 MB

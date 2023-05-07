@@ -1,0 +1,12 @@
+**/data*
+**/*.bin
+**/__pycache__
+**/*env*
+**/.coverage
+**/.coverage*
+**/*cache*
+**/*.tmp
+SVD_grid_search_results_test_MLModels_fake_ratings.csv
+*.out
+**/logvolume*/
+**/var*/
